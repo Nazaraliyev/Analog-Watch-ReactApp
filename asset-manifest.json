@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Analog-Watch-ReactApp/static/css/main.621b219e.chunk.css",
+    "main.js": "/Analog-Watch-ReactApp/static/js/main.4311fd0d.chunk.js",
+    "main.js.map": "/Analog-Watch-ReactApp/static/js/main.4311fd0d.chunk.js.map",
+    "runtime-main.js": "/Analog-Watch-ReactApp/static/js/runtime-main.feaeb298.js",
+    "runtime-main.js.map": "/Analog-Watch-ReactApp/static/js/runtime-main.feaeb298.js.map",
+    "static/js/2.8a3b04b8.chunk.js": "/Analog-Watch-ReactApp/static/js/2.8a3b04b8.chunk.js",
+    "static/js/2.8a3b04b8.chunk.js.map": "/Analog-Watch-ReactApp/static/js/2.8a3b04b8.chunk.js.map",
+    "static/js/3.70ebfe00.chunk.js": "/Analog-Watch-ReactApp/static/js/3.70ebfe00.chunk.js",
+    "static/js/3.70ebfe00.chunk.js.map": "/Analog-Watch-ReactApp/static/js/3.70ebfe00.chunk.js.map",
+    "index.html": "/Analog-Watch-ReactApp/index.html",
+    "static/css/main.621b219e.chunk.css.map": "/Analog-Watch-ReactApp/static/css/main.621b219e.chunk.css.map",
+    "static/js/2.8a3b04b8.chunk.js.LICENSE.txt": "/Analog-Watch-ReactApp/static/js/2.8a3b04b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feaeb298.js",
+    "static/js/2.8a3b04b8.chunk.js",
+    "static/css/main.621b219e.chunk.css",
+    "static/js/main.4311fd0d.chunk.js"
+  ]
+}
